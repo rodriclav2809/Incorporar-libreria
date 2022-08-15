@@ -1,0 +1,20 @@
+const productos = [
+    {id:01, tipo:"Remera", nombre:"Camiseta Lucho Suarez 2022", precio: 2400, foto: "./media/camisetaLucho2022.jpg" },
+    {id:02, tipo:"Remera", nombre:"Camiseta Roja 2022", precio: 1600, foto: "./media/alternativa.jpg" },
+    {id:03, tipo:"Remera", nombre:"Camiseta Golero 2022", precio: 2000, foto: "./media/camisetagolero2022.jpg" },
+    {id:04, tipo:"Remera", nombre:"Nacional es Uruguay", precio: 1600, foto: "./media/camisetaNacionalUruguay2022.jpg" },
+    {id:05, tipo:"Remera", nombre:"Camiseta Local 2021", precio: 1400, foto: "./media/CAMISETALOCAL2021.jpg" },
+    {id:06, tipo:"Remera", nombre:"Camiseta Dama Local 2021", precio: 1500, foto: "./media/camisetaNacionaldama2021.jpg" },
+    {id:07, tipo:"Remera", nombre: "Camiseta Roja 2021", precio: 1500, foto: "./media/alternativa2021.jpg"},
+    {id:08, tipo:"Remera", nombre: "Musculosa Azul", precio: 1000, foto: "./media/musculosa.jpg"},
+    {id:09, tipo: "Buzo", nombre: "Buzo Tres Colores", precio: 3800, foto: "./media/buzo.jpg"},
+    {id:10, tipo: "Buzo", nombre: "Campera Canguro Azul", precio: 3800, foto: "./media/camperadeportiva.jpg"},
+    {id:11, tipo: "Buzo", nombre: "Canguro Azul", precio: 2900, foto: "./media/canguro.jpg"},
+    {id:12, tipo: "Buzo", nombre: "Canguro Azul Oscuro y Claro", precio: 3200, foto: "./media/canguroazul.jpg"},
+    {id:13, tipo: "Buzo", nombre: "Canguro Rojo", precio: 2000, foto: "./media/cangurorojo.jpg"},
+    {id:14, tipo: "Campera", nombre: "Camperon abrigo", precio: 3300, foto: "./media/camperon.jpg"},
+    {id:15, tipo: "Merchandising", nombre: "Bata ninos", precio: 900, foto: "./media/batanino.jpg"},
+    {id:16, tipo: "Merchandising", nombre: "Bolso Tricolor", precio: 1400, foto: "./media/bolso-tricolor.jpg"},
+    {id:17, tipo: "Merchandising", nombre: "Championes Nino CNdeF", precio: 1000, foto: "./media/calzadonino.jpg"},
+    {id:18, tipo: "Merchandising", nombre: "Kit Equipo Completo Nino", precio: 1500, foto: "./media/kitnino.jpg"}
+];
